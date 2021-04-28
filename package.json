@@ -1,0 +1,14 @@
+{
+  "name": "api-ssl",
+  "version": "0.1",
+  "description": "api node w ssl",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "mrcxtkl",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
